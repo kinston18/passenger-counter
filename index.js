@@ -1,2 +1,6 @@
-document.getElementById("count-el").innerText = 6
-        
+//document.getElementById("count-el").innerText = 6
+
+let firstBatch = 
+let count = 0
+
+console.log(count)
